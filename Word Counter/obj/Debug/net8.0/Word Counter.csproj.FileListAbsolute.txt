@@ -1,0 +1,14 @@
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\Word Counter\bin\Debug\net8.0\Word Counter.exe
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\Word Counter\bin\Debug\net8.0\Word Counter.deps.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\Word Counter\bin\Debug\net8.0\Word Counter.runtimeconfig.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\Word Counter\bin\Debug\net8.0\Word Counter.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\Word Counter\bin\Debug\net8.0\Word Counter.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\Word Counter\obj\Debug\net8.0\Word Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\Word Counter\obj\Debug\net8.0\Word Counter.AssemblyInfoInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\Word Counter\obj\Debug\net8.0\Word Counter.AssemblyInfo.cs
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\Word Counter\obj\Debug\net8.0\Word Counter.csproj.CoreCompileInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\Word Counter\obj\Debug\net8.0\Word Counter.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\Word Counter\obj\Debug\net8.0\refint\Word Counter.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\Word Counter\obj\Debug\net8.0\Word Counter.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\Word Counter\obj\Debug\net8.0\Word Counter.genruntimeconfig.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\Word Counter\obj\Debug\net8.0\ref\Word Counter.dll
