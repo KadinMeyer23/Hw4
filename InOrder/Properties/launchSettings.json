@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "InOrder": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

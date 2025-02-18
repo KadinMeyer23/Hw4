@@ -1,0 +1,14 @@
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\InOrder\bin\Debug\net8.0\InOrder.exe
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\InOrder\bin\Debug\net8.0\InOrder.deps.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\InOrder\bin\Debug\net8.0\InOrder.runtimeconfig.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\InOrder\bin\Debug\net8.0\InOrder.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\InOrder\bin\Debug\net8.0\InOrder.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\InOrder\obj\Debug\net8.0\InOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\InOrder\obj\Debug\net8.0\InOrder.AssemblyInfoInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\InOrder\obj\Debug\net8.0\InOrder.AssemblyInfo.cs
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\InOrder\obj\Debug\net8.0\InOrder.csproj.CoreCompileInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\InOrder\obj\Debug\net8.0\InOrder.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\InOrder\obj\Debug\net8.0\refint\InOrder.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\InOrder\obj\Debug\net8.0\InOrder.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\InOrder\obj\Debug\net8.0\InOrder.genruntimeconfig.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\InOrder\obj\Debug\net8.0\ref\InOrder.dll

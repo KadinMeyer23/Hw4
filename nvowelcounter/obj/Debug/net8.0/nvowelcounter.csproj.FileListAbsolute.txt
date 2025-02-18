@@ -1,0 +1,14 @@
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\nvowelcounter\bin\Debug\net8.0\nvowelcounter.exe
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\nvowelcounter\bin\Debug\net8.0\nvowelcounter.deps.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\nvowelcounter\bin\Debug\net8.0\nvowelcounter.runtimeconfig.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\nvowelcounter\bin\Debug\net8.0\nvowelcounter.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\nvowelcounter\bin\Debug\net8.0\nvowelcounter.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\nvowelcounter\obj\Debug\net8.0\nvowelcounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\nvowelcounter\obj\Debug\net8.0\nvowelcounter.AssemblyInfoInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\nvowelcounter\obj\Debug\net8.0\nvowelcounter.AssemblyInfo.cs
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\nvowelcounter\obj\Debug\net8.0\nvowelcounter.csproj.CoreCompileInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\nvowelcounter\obj\Debug\net8.0\nvowelcounter.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\nvowelcounter\obj\Debug\net8.0\refint\nvowelcounter.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\nvowelcounter\obj\Debug\net8.0\nvowelcounter.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\nvowelcounter\obj\Debug\net8.0\nvowelcounter.genruntimeconfig.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\nvowelcounter\obj\Debug\net8.0\ref\nvowelcounter.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "nvowelcounter": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
