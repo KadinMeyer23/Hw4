@@ -1,0 +1,14 @@
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\AlphabetUpgrader\bin\Debug\net8.0\AlphabetUpgrader.exe
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\AlphabetUpgrader\bin\Debug\net8.0\AlphabetUpgrader.deps.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\AlphabetUpgrader\bin\Debug\net8.0\AlphabetUpgrader.runtimeconfig.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\AlphabetUpgrader\bin\Debug\net8.0\AlphabetUpgrader.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\AlphabetUpgrader\bin\Debug\net8.0\AlphabetUpgrader.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\AlphabetUpgrader\obj\Debug\net8.0\AlphabetUpgrader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\AlphabetUpgrader\obj\Debug\net8.0\AlphabetUpgrader.AssemblyInfoInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\AlphabetUpgrader\obj\Debug\net8.0\AlphabetUpgrader.AssemblyInfo.cs
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\AlphabetUpgrader\obj\Debug\net8.0\AlphabetUpgrader.csproj.CoreCompileInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\AlphabetUpgrader\obj\Debug\net8.0\AlphabetUpgrader.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\AlphabetUpgrader\obj\Debug\net8.0\refint\AlphabetUpgrader.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\AlphabetUpgrader\obj\Debug\net8.0\AlphabetUpgrader.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\AlphabetUpgrader\obj\Debug\net8.0\AlphabetUpgrader.genruntimeconfig.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\AlphabetUpgrader\obj\Debug\net8.0\ref\AlphabetUpgrader.dll

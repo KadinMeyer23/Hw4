@@ -1,0 +1,14 @@
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\First_Last flipper\bin\Debug\net8.0\First_Last flipper.exe
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\First_Last flipper\bin\Debug\net8.0\First_Last flipper.deps.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\First_Last flipper\bin\Debug\net8.0\First_Last flipper.runtimeconfig.json
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\First_Last flipper\bin\Debug\net8.0\First_Last flipper.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\First_Last flipper\bin\Debug\net8.0\First_Last flipper.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\First_Last flipper\obj\Debug\net8.0\First_Last flipper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\First_Last flipper\obj\Debug\net8.0\First_Last flipper.AssemblyInfoInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\First_Last flipper\obj\Debug\net8.0\First_Last flipper.AssemblyInfo.cs
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\First_Last flipper\obj\Debug\net8.0\First_Last flipper.csproj.CoreCompileInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\First_Last flipper\obj\Debug\net8.0\First_Last flipper.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\First_Last flipper\obj\Debug\net8.0\refint\First_Last flipper.dll
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\First_Last flipper\obj\Debug\net8.0\First_Last flipper.pdb
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\First_Last flipper\obj\Debug\net8.0\First_Last flipper.genruntimeconfig.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw4 Assignments\First_Last flipper\obj\Debug\net8.0\ref\First_Last flipper.dll

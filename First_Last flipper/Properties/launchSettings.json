@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "First_Last flipper": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

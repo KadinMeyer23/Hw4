@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AlphabetUpgrader": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
